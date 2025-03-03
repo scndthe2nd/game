@@ -8,9 +8,9 @@ def primes_method4(n):
             out.append(num)
     return out
 
-primes4 = primes_method4(2000000)
+#primes4 = primes_method4(2000000)
 #print (primes4)
-print (sum(primes4))
+#print (sum(primes4))
 
 
 def primes_method5(n):
@@ -21,7 +21,8 @@ def primes_method5(n):
             out.append(p)
             for i in range(p, n+1, p):
                 sieve[i] = False
+    print (out[10000])
     return out
-primes5 = primes_method5(2000000)
-print (sum(primes5))
+primes5 = primes_method5(200000)
+#print (sum(primes5))
 #print (primes5)
