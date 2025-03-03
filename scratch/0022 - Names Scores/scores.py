@@ -26,4 +26,4 @@ for index_number, name in enumerate(sorted_names, start=1):
         name_value += letter_value
     name_value *= index_number
     total += name_value
-    print(f"index = {index_number}, name = {name}, name_value = {name_value}, total = {total}")
+    print(f"index = {index_number}, name = {name}, name_value = {name_value}, total = {total}")   
