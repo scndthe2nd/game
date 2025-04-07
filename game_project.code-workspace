@@ -1,0 +1,82 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"git.enableSmartCommit": true,
+		"git.autofetch": false,
+		"git.confirmSync": false,
+		"files.autoSave": "onFocusChange",
+		"workbench.colorTheme": "Monokai Dimmed",
+		"markdown-preview-github-styles.colorTheme": "dark",
+		"explorer.confirmDelete": false,
+		"markdown-preview-enhanced.previewTheme": "monokai.css",
+		"markdown-preview-enhanced.revealjsTheme": "league.css",
+		"todohighlight.defaultStyle": {
+			"color": "#CYAN",
+			"backgroundColor": "#YELLOW"
+		},
+		"todohighlight.keywords": [
+			{
+				"text": "TODO:",
+				"color": "BLACK",
+				"backgroundColor": "YELLOW",
+				"border": "1px solid red",
+				"overviewRulerColor": "rgba(255,189,42,0.8)"
+			},
+			{
+				"text": "TODOCS:",
+				"color": "CYAN",
+				"backgroundColor": "BLACK",
+				"border": "1px solid red",
+				"overviewRulerColor": "rgba(240,98,146,0.8)"
+			},
+			{
+				"text": "CLEAN:",
+				"color": "BLACK",
+				"backgroundColor": "PINK",
+				"border": "1px solid red",
+				"overviewRulerColor": "rgba(240,98,146,0.8)"
+			},
+			{
+				"text": "NOTE:",
+				"color": "BLACK",
+				"backgroundColor": "yellow",
+				"border": "1px solid red",
+				"overviewRulerColor": "grey"
+			},
+			{
+				"text": "FIX:",
+				"color": "RED",
+				"backgroundColor": "BLACK",
+				"border": "1px solid red",
+				"overviewRulerColor": "rgba(255,189,42,0.8)"
+			}
+		],
+		"todohighlight.enableDiagnostics": false,
+		"editor.wordWrap": "on",
+		"gitdoc.enabled": false,
+		"workbench.colorCustomizations": {
+			"activityBar.activeBackground": "#5dd6da",
+			"activityBar.background": "#5dd6da",
+			"activityBar.foreground": "#15202b",
+			"activityBar.inactiveForeground": "#15202b99",
+			"activityBarBadge.background": "#d649d1",
+			"activityBarBadge.foreground": "#15202b",
+			"commandCenter.border": "#15202b99",
+			"sash.hoverBorder": "#5dd6da",
+			"statusBar.background": "#34cbd0",
+			"statusBar.foreground": "#15202b",
+			"statusBarItem.hoverBackground": "#27a6aa",
+			"statusBarItem.remoteBackground": "#34cbd0",
+			"statusBarItem.remoteForeground": "#15202b",
+			"titleBar.activeBackground": "#34cbd0",
+			"titleBar.activeForeground": "#15202b",
+			"titleBar.inactiveBackground": "#34cbd099",
+			"titleBar.inactiveForeground": "#15202b99"
+		},
+		"peacock.color": "#34cbd0"
+	}
+}
